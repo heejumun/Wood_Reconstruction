@@ -1,0 +1,5 @@
+NAME: TreeCent
+DATA_PATH: data/TreeCent/TreeCent_txt
+N_POINTS: 163840
+PC_PATH: data/TreeCent/TreeCent_csv
+

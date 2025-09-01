@@ -1,0 +1,4 @@
+NAME: SegAnch_branch
+DATA_PATH: /esail4/heeju/PoinTr/data/Segmented/branch_points_aug_txt
+N_POINTS: 2048
+PC_PATH: /esail4/heeju/PoinTr/data/Segmented/branch_points_aug

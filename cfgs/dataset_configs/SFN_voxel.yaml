@@ -1,0 +1,4 @@
+NAME: SFN_voxel
+DATA_PATH: /esail4/heeju/PoinTr/data/voxel_txt
+N_POINTS: 16384
+PC_PATH: /esail4/heeju/PoinTr/data/voxel

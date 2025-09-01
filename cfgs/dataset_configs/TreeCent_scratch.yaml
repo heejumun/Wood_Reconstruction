@@ -1,0 +1,4 @@
+NAME: TreeCent_scratch
+DATA_PATH: data/ShapeNet55-34/shapenet_m_txt
+N_POINTS: 16384
+PC_PATH: data/ShapeNet55-34/shapenet_pc_m

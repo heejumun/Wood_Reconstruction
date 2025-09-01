@@ -1,0 +1,5 @@
+NAME: Pretrain_LW
+DATA_PATH: /esail4/heeju/M2AE_LW/data/pretrain/mae_tree_8192_txt
+N_POINTS: 8192
+PC_PATH: /esail4/heeju/M2AE_LW/data/pretrain/mae_tree_8192
+

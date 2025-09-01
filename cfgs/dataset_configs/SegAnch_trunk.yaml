@@ -1,0 +1,4 @@
+NAME: SegAnch_trunk
+DATA_PATH: /esail4/heeju/PoinTr/data/Segmented/trunk_points_aug_txt
+N_POINTS: 8192
+PC_PATH: /esail4/heeju/PoinTr/data/Segmented/trunk_points_aug
